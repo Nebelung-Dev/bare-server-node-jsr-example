@@ -1,1 +1,1 @@
-# bare-server-node-jsr-example
+# Bare server node jsr example

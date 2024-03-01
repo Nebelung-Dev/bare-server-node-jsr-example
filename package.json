@@ -1,0 +1,16 @@
+{
+  "name": "bare-server-node-jsr-example",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "npm:@jsr/tomphttp__bare-server-node@^2.0.6",
+    "express": "^4.18.3"
+  }
+}
